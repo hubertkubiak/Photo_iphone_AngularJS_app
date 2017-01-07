@@ -1,0 +1,25 @@
+{
+  "name": "photo_iphone",
+  "version": "1.0.0",
+  "description": "photo iphone - simple angular app",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hubertkubiak/Photo_iphone_angular_app.git"
+  },
+  "author": "Hubert Kubiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hubertkubiak/Photo_iphone_angular_app/issues"
+  },
+  "homepage": "https://github.com/hubertkubiak/Photo_iphone_angular_app#readme"
+}
